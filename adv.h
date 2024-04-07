@@ -18,7 +18,7 @@ void start(char* locate, char* date, char* part1){
 	printf("\n\n");
 	Sleep(800);
 	
-		for(i=0; i<335; i++){
+	for(i=0; i<335; i++){
 		printf("%c", part1[i]);
 		Sleep(15);
 	}
